@@ -1,0 +1,309 @@
+
+
+.h
+{
+    background-color: #6F6AF7;
+    color:white;
+    display: flex;
+    height:70px;
+}
+.head
+{
+    text-align: center;
+    background-color: #6F6AF7;
+    color:white;
+    display: flex;
+    font-family:DM Sans;
+}
+  
+#h1
+{
+     font-family: Delius Unicase;
+     text-align: left;
+    
+    
+   /* border:1px solid black; */
+    margin-left: 30px;
+    
+}
+#h3,#h4,#h5,#h6
+{
+ /*   border:1px solid black; */
+    padding:20px;
+    margin-left: 60px;
+    font-weight: 200;
+}
+.container
+{
+    background-color: white;
+    border-radius: 50px;
+    position:absolute;
+  height: 30px;
+  width: 200px;
+    top:40px;
+    left:880px;
+    
+}
+.searchbutton
+{
+    background-color: white;
+    border-radius: 50px;
+    float:right;
+    border:none;
+   
+     margin-top:10px;
+    outline: none;
+}
+.searchInput
+{
+    
+    margin-left:10px;
+    margin-top:10px;
+    border:none;
+    justify-content: flex-start;
+  width:100px;
+    
+}
+.menu
+{
+    
+    width: 35px;
+    height: 3px;
+    background-color: white;
+    margin:12px ;
+    
+
+}
+.m{
+  display:inline-flexbox;
+
+/* border: 1px solid black;*/
+    margin-bottom: 10px;
+margin-left: 400px;
+   padding-top:12px;
+
+}
+.mid
+{
+    display : flex;
+}
+#img
+{
+    margin-top:60px;
+    margin-left: 40px;
+    height:400px;
+    width:400px;
+}
+#box
+{
+   /* border:1px solid black; */
+    
+    background-color: #E5D8FF;
+    margin-top:60px;
+    border-radius: 2%;
+    padding:20px;
+    height:350px;
+    width:-180px;
+}
+.q
+{
+    /*border:1px solid black;*/
+    display: grid;
+    margin-top: 120px;
+    margin-left: 40px;
+}
+.fa-whatsapp {
+    color:green;
+    border:1px solid black;
+    background:white;
+    width:60px;
+   height:50px;
+   margin-top:50px;
+   text-align: center;
+   font-size:30px;
+   padding-top:10px;
+   border-radius: 7px;
+  }
+.fa-facebook {
+    border:1px solid black;
+    background:white;
+    width:60px;
+   height:50px;
+    margin-top:-78px;
+    text-align: center;
+    padding-top:10px;
+    border-radius: 7px;
+  }
+.fa-twitter
+{
+    color:lightblue;
+    border-radius: 7px;
+    border:1px solid black;
+    background:white;
+    width:60px;
+   height:50px;
+   text-align: center;
+   padding-top:10px;
+   margin-top:-94px;
+}
+.midlast
+{
+    display: flex;
+}
+#b1
+{
+   /* border:1px solid black; */
+    background-color: #929DFF;
+    width:280px ;
+    height:100px;
+    border-radius:5px;
+    margin-left:40px;
+    margin-top:50px;
+   
+
+}
+#b
+{
+    margin-top:-10px;
+    margin-left: 20px;
+}
+#b2
+{
+    /*border:1px solid black;*/
+    background-color: #734CF2;
+    font-size: large;
+
+    width:280px ;
+    height:100px;
+    border-radius:5px;
+    margin-left:40px;
+    margin-top:50px;
+}
+#bb
+{
+    margin-top:-10px;
+    margin-left: 20px;
+}
+#b3
+{
+   /* border:1px solid black; */
+    background-color:#D288FF;
+    font-size: large;
+
+    width:280px ;
+    height:100px;
+    border-radius:5px;
+    margin-left:40px;
+    margin-top:50px;
+}
+#bbb
+{
+    margin-top:-10px;
+    margin-left: 20px;
+}
+#b4
+{
+    /*border:1px solid black;*/
+    background-color:  #000000;
+    color:white;
+    width:280px ;
+    height:100px;
+    border-radius:5px;
+    margin-left:40px;
+    margin-top:50px;
+    font-size: large;
+}
+#bbbb
+{
+    margin-top:-10px;
+    margin-left: 20px;
+}
+#ic
+{
+   /* border:1px solid black; */
+    width:140px;
+    height:140px;
+    margin-top: -60px;
+}
+#f
+{
+    border-radius: 10px;
+    /*border:1px solid black;*/
+    width:300px;
+    height:60px;
+    font-size: larger;
+    text-align: center;
+    padding-top: 40px;
+}
+#ff
+{
+    border:1px solid white;
+    color:white;
+    width:300px ;
+    height:60px;
+    padding-top: 40px;
+    border-radius: 10px;
+    font-size: larger;
+    text-align: center;
+}
+#fff
+{
+    border:1px solid white;
+    color:white;
+    width:300px ;
+    height:60px;
+    padding-top: 40px;
+    border-radius: 10px;
+    font-size: larger;
+    text-align: center;
+}
+.f2
+{
+    display: flex;
+    /*border:1px solid black;*/
+    width:300px;
+    height:350px;
+    margin-top:20px;
+    margin-left: -10px;
+    padding-left: 60px;
+}
+.z
+{
+    border:1px solid black;
+    
+}
+.f4
+{
+   /* border:1px solid black;*/
+    margin-top:0px;
+}
+.foot
+{
+    background-color:#483EFF; 
+    display: flex;
+    border:1px solid black;
+    margin-top:60px;
+    border-radius: 12px;
+    height:480px;
+    margin-right:30px;
+    margin-left:30px;
+}
+.f1
+{
+    margin-left: 90px;
+    margin-top:50px;
+}
+.l{
+    border:1px solid black;
+    margin-left:60px;
+    margin-top:40px;
+    width:750px;
+    height:400px;
+    border-radius: 8px;
+    background-color: white;
+}
+#ur
+{
+    margin-left: 40px;
+    margin-top: 70px;
+}
